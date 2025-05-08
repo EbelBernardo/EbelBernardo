@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @EbelBernardo
-- 🌱 I’m currently learning C# and .NET
+- I’m @EbelBernardo
+- I’m currently learning C# and .NET
