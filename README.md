@@ -18,7 +18,7 @@
 
 ## Projetos em destaque
 
-### [ToDo List - ASP.NET MVC](https://EbelBernardo.github.io/mvc-todo-crud/)  
+### [ToDo List - ASP.NET MVC](https://github.com/EbelBernardo/mvc-todo-crud)  
 Aplicação web com CRUD de tarefas usando ASP.NET MVC, Entity Framework e SQL Server LocalDB. Interface simples com Bootstrap e filtros por status.
 
 ### [SPA Blazor](https://github.com/EbelBernardo/Projeto-SPA-Blazor)  
