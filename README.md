@@ -18,14 +18,14 @@
 
 ## Projetos em destaque
 
+### [ToDo List - ASP.NET MVC](https://ebelbernardo.github.io/mvc-todo-crud/)  
+Aplicação web com CRUD de tarefas usando ASP.NET MVC, Entity Framework e SQL Server LocalDB. Interface simples com Bootstrap e filtros por status.
+
 ### [SPA Blazor](https://github.com/EbelBernardo/Projeto-SPA-Blazor)  
 Sistema de gerenciamento de produtos em Blazor Server (SPA). Permite cadastrar, editar, listar e excluir dados.
 
 ### [Dapper Console CRUD](https://github.com/EbelBernardo/Dapper-Console-CRUD)  
 CRUD de terminal utilizando Dapper, SQL Server, C# e .NET com separação por camadas.
-
-### [Spotify Clone](https://ebelbernardo.github.io/spotify-clone/)  
-Recriação visual da interface do Spotify com HTML e CSS puro, focado em prática de layout.
 
 ---
 
