@@ -4,11 +4,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-ebel-743831303/)
 
 ---
+
 ( C# | .NET | ASP.NET | Entity Framework | Blazor | WebAssembly | SQL | HTML | CSS )
 
 - Desenvolvedor Backend
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Buscando oportunidades (Estágio/Junio) 
+
   
 <p align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
