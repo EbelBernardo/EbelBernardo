@@ -1,29 +1,23 @@
 # Bernardo Ebel
+---
+- bernardoebel@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/bernardo-ebel-743831303/)  
+---
+( C# | .NET | ASP.NET | Entity Framework | Blazor | WebAssembly | SQL | HTML | CSS )
 
-- Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi)  
-- Focado em desenvolvimento backend com C#, .NET, SQL Server e Blazor  
-- Buscando oportunidade de estágio para aplicar e expandir meus conhecimentos  
-- Estudando com cursos da Balta.io e Alura
-
+- Desenvolvedor Backend
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Buscando oportunidades (Estágio/Junio) 
+  
 <p align="left">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40""/>&nbsp;&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="40" height="40""/>&nbsp;&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40""/>&nbsp;&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40""/>&nbsp;&nbsp;&nbsp;
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40""/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 </p>
-          
----
-
-## Tecnologias
-
-- **Linguagens:** C#, HTML, CSS, SQL  
-- **Frameworks:** .NET, ASP.NET, Blazor  
-- **Banco de Dados:** SQL Server  
-- **Outros:** Dapper, Entity Framework, Docker  
-
----
 
 ## Projetos em destaque
 
@@ -42,11 +36,4 @@ CRUD de terminal utilizando Dapper, SQL Server, C# e .NET com separação por ca
 
 [Download Currículo PDF](https://github.com/EbelBernardo/curriculo/raw/main/curriculo.pdf)
 
----
-
-## Contato
-
-- bernardoebel@gmail.com  
-- (47) 99627-5621  
-- [LinkedIn](https://www.linkedin.com/in/bernardo-ebel-743831303/)  
 
