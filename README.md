@@ -37,6 +37,6 @@ CRUD de terminal utilizando **Dapper**, **SQL Server**, **C#** e **.NET** com se
 
 ## My Resume
 
-[Download Currículo PDF](https://github.com/EbelBernardo/curriculo/raw/main/curriculo.pdf)
+[Download Resume PDF](https://github.com/EbelBernardo/curriculo/raw/main/curriculo.pdf)
 
 
