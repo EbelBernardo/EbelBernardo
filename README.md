@@ -9,7 +9,7 @@
 
 - Desenvolvedor Backend
 - Estudante de Análise e Desenvolvimento de Sistemas  
-- Buscando oportunidades (Estágio/Junio) 
+- Buscando oportunidades (Estágio/Junior) 
 
   
 <p align="left">
