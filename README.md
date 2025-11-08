@@ -5,6 +5,8 @@
 - Buscando oportunidade de estágio para aplicar e expandir meus conhecimentos  
 - Estudando com cursos da Balta.io e Alura
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+          
 ---
 
 ## Tecnologias
