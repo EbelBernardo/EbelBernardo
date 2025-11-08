@@ -1,5 +1,4 @@
 # Bernardo Ebel
----
 - bernardoebel@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/bernardo-ebel-743831303/)  
 ---
