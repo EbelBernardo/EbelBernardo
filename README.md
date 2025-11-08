@@ -4,7 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-ebel-743831303/)
 
 ---
-
 ( C# | .NET | ASP.NET | Entity Framework | Blazor | WebAssembly | SQL | HTML | CSS )
 
 - Backend Developer
