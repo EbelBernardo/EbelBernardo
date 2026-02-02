@@ -23,15 +23,45 @@
 
 ## Featured Projects
 
+### [Ebel.ValidationKit – .NET Validation Library](https://github.com/EbelBernardo/Ebel.ValidatorKit)
+Validation library built in **.NET**, focused on **domain rules**, **clear contracts**, and **reusable code distribution**, with a **demo API** to show real usage.
+
+**Technical highlights:**
+- Reusable Class Library designed for distribution
+- Semantic Versioning applied from the start
+- **CI/CD pipeline with GitHub Actions**
+- Package publishing and consumption via **NuGet**
+- Brazilian document validation (CPF) with multiple validation layers
+- `ValidationResult` as a clear return contract (IsValid, Code, Message)
+- Standardized failures using **Error Codes**
+- **Minimal API** used as a demo API for consumption and testing
+
+📌 *Project focused on learning the full backend product lifecycle: from library design to API consumption, including versioning, automation, and distribution.*
+
+
 ### [ToDo List - ASP.NET MVC](https://github.com/EbelBernardo/mvc-todo-crud)  
-Web application with full CRUD for tasks using **ASP.NET MVC**, **Entity Framework**, and **SQL Server LocalDB**.
-Simple interface built with **Bootstrap**, including filters by task status.
+Web application for task management, built to practice **CRUD**, **separation of concerns**, and **data persistence with Entity Framework**.
+
+**Technical highlights:**
+- ASP.NET MVC with clean controllers and strongly typed views
+- Entity Framework Core using Code First
+- Task status filters (pending / completed)
+- Backend data validation
+- Simple UI built with Bootstrap
+
+📌 *Project focused on consolidating server-side web application fundamentals.*
+
 
 ### [SPA Blazor](https://github.com/EbelBernardo/Projeto-SPA-Blazor)  
-Sistema de gerenciamento de produtos em **Blazor Server** (SPA). Permite cadastrar, editar, listar e excluir dados.
+Single Page Application built with **Blazor Server** for product management, focusing on **componentization**, **application state**, and **async operations**.
 
-### [Dapper Console CRUD](https://github.com/EbelBernardo/Dapper-Console-CRUD)  
-CRUD de terminal utilizando **Dapper**, **SQL Server**, **C#** e **.NET** com separação por camadas.
+**Technical highlights:**
+- Reusable Blazor components
+- Form binding and validation
+- Full CRUD with database persistence
+- Page navigation without reload (SPA behavior)
+
+📌 *Project focused on understanding the SPA model in the .NET ecosystem.*
 
 ---
 
