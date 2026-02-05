@@ -67,6 +67,6 @@ Single Page Application built with **Blazor Server** for product management, foc
 
 ## My Resume
 
-[Download Resume PDF](https://github.com/EbelBernardo/curriculo/raw/main/curriculo.pdf)
+[Download Resume PDF](https://github.com/EbelBernardo/resume-bernardo-ebel/blob/main/Bernardo_Ebel_Resume_EN.pdf)
 
 
